@@ -16,6 +16,8 @@
   </a>
  </p>
 
+<img src="./github/mockup.png" title="AwsAuth" alt="AwsAuth">
+
 ---
 
 ## Installation
