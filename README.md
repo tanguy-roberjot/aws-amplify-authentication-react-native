@@ -1,10 +1,15 @@
-<img src="./src/assets/logo.png" title="AwsAuth" alt="AwsAuth" height=200>
+<p align="center">
+  <img src="./src/assets/logo.png" title="AwsAuth" alt="AwsAuth" height=150>
+</p>
 
-# AWS Amplify Cognito Authentication React Native
+<h1 align="center">AWS Amplify Cognito Authentication React Native
+</h1>
 
-> Complete AWS Cognito authentication flow boilerplate using amplify in react native, with redux login persist
+<h4 align="center">
+  Complete AWS Cognito authentication flow boilerplate using amplify in react native, with redux login persist
+</h4>
 
-<p align="left">
+<p align="center">
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/tanguy-roberjot/aws-amplify-authentication-react-native">
   
   <a href="https://github.com/tanguy-roberjot/aws-amplify-authentication-react-native/commits/master">
